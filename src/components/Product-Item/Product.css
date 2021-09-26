@@ -3,19 +3,17 @@
     height: 300px;
     margin-top: 10px;
     margin-left: 15%;
-    border: 3px solid goldenrod;
     border-radius: 50%;
 }
-.product-corner{
-display: grid;
-grid-template-columns:repeat(3, 1fr);
-}
+
+
 .product-itm{
     margin: 10px;
-    border: 2px solid black;
+    box-shadow: 10px 10px 30px rgb(207, 204, 204);
+    border-radius: 5px;
 }
 .product-itm:hover{
-    background-color: rgba(253, 0, 219, 0.466);
+    background-color: rgba(160, 157, 160, 0.466);
     border-radius: 15px;
 }
 .product-itm h3, p{

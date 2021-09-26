@@ -3,10 +3,12 @@
     grid-template-columns: 3fr 1fr;
 }
 
-.product-container{
-    background-color: rgb(102, 102, 243);
-}
+/* .product-container{
+    background-color: rgb(72, 182, 255);
+} */
 
 .card-section{
     margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
 }

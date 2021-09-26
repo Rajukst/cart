@@ -18,12 +18,9 @@ const Cart = (props) => {
     return (
         <div className='cart-component'>
             <h1>{element} Your Cart Summary</h1>
-            <div className='pragraph'>
-                <p>Product Count: {productCount}</p>
-            </div>
-
             <h3> Total Product Added: {props.getCart.length} </h3>
             <h4> Total Cost: {initialAmount.toFixed(2)}</h4>
+            <h4>Product Count: {productCount} </h4>
         </div>
     );
 };
