@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Toast Machine",
+        "price": 15000,
+        "seller": "Nova",
+        "key": "tm",
+        "description": "Get Your Hot Toast Machine",
+        "img": "https://vestel.com/uploads/products/big/338-1-vestel-solen-t3000-inox-tost-makinesi-02016423289.png"
+    },
+    {
+        "name": "Kettle",
+        "price": 2500,
+        "seller": "H&S",
+        "key": "hs",
+        "description": "Made New Kettle for you.",
+        "img": "https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=LAUVK104"
+    },
+    {
+        "name": "Iron",
+        "price": 1500,
+        "seller": "Karim Industries",
+        "key": "ki",
+        "description": "hot iron machine for your sweet cloths",
+        "img": "https://homedepot.scene7.com/is/image/homedepotcanada/p_1001352735.jpg?wid=1000&hei=1000&op_sharpen=1"
+    },
+    {
+        "name": "Electric Fan",
+        "price": 1300,
+        "seller": "BRB Group",
+        "key": "bg",
+        "description": "This fan is for you to cool your room",
+        "img": "https://static-01.daraz.com.bd/p/3d55a78ffd855ebb16debae612539bf0.jpg"
+    },
+    {
+        "name": "Oven",
+        "price": 3600,
+        "seller": "Karama Ltd",
+        "key": "kl",
+        "description": "For hot and spyci foods",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/618O0ywM1SL.jpg"
+    },
+    {
+        "name": "Dishwasher",
+        "price": "8000",
+        "seller": "Black Bone",
+        "key": "bb",
+        "description": "to clean your every dishes smoothly",
+        "img": "https://www.thenewsminute.com/sites/default/files/styles/slideshow_image_size/public/dishwasher_1200-min.jpeg?itok=oUrKBQv1"
+    },
+    {
+        "name": "Tea maker",
+        "price": 1800,
+        "seller": "MRS Industries",
+        "key": "mi",
+        "description": "For Hot and fresh tea",
+        "img": "https://m.media-amazon.com/images/I/71xMiTTn9HL._AC_SL1500_.jpg"
+    },
+    {
+        "name": "Blender",
+        "price": 2500,
+        "seller": "Kiam Metal",
+        "key": "km",
+        "description": "Only For You to blender your..sry your fruits",
+        "img": "https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=CONSM900"
+    },
+    {
+        "name": "Mixer",
+        "price": 2300,
+        "seller": "NBR Group",
+        "key": "nb",
+        "description": "Only For You to mixer your..sry your itmes",
+        "img": "https://martjackstorage.blob.core.windows.net/in-resources/fc93a3a8-f69b-444c-8b76-9848de9338d0/Images/ProductImages/Source/41303.jpg"
+    },
+    {
+        "name": "Coffee maker",
+        "price": 1600,
+        "seller": "Coffie House",
+        "key": "ch",
+        "description": "Hot and fresh coffie is making by it",
+        "img": "https://esquire.webteam.adnarchive.com/wp-content/uploads/2019/01/Philips-Coffee-Maker-HD7431-20-at-Esquire-Electronics-Ltd.jpg"
+    },
+    {
+        "name": "Lamp",
+        "price": 800,
+        "seller": "Rakib Electric",
+        "key": "re",
+        "description": "Only For You to make your room more beautifull",
+        "img": "https://img.vntg.com/large/15687120107881/kosta-boda-glass-table-lamp-by-ove-sandeberg-sweden.jpg"
+    },
+    {
+        "name": "Water cooker",
+        "price": 3300,
+        "seller": "Rima Water Cooker Indusry",
+        "key": "rc",
+        "description": "water are hit more quick",
+        "img": "https://pyxis.nymag.com/v1/imgs/968/dd4/bb35fa2a498e9913e7f776d9767dc807da-cosori-electric-kettle-glass.2x.rsquare.w600.jpg"
+    },
+    {
+        "name": "Light",
+        "price": 3800,
+        "seller": "Shima Electric House",
+        "key": "si",
+        "description": "Only For You to make your room more lighter",
+        "img": "https://images.pexels.com/photos/132340/pexels-photo-132340.jpeg"
+    },
+    {
+        "name": "Television",
+        "price": 13000,
+        "seller": "Dayana Electronics",
+        "key": "de",
+        "description": "New Condition Television for you",
+        "img": "https://www.collinsdictionary.com/images/full/television_160593200.jpg"
+    },
+    {
+        "name": "Pressure cooker",
+        "price": 4900,
+        "seller": "Gopal Cooker Indusry",
+        "key": "gi",
+        "description": "Foods are make more quick",
+        "img": "https://www.technopower.com.bd/public/uploads/all/kEUx4usbhtpGXbB7hfu6bbWy3pVshNmodCkIVJpS.png"
+    }
+]
