@@ -1,8 +1,8 @@
 .shop-component{
     display: grid;
     grid-template-columns: 3fr 1fr;
-    background-color: aquamarine;
 }
+
 .product-container{
     background-color: blue;
 }
