@@ -13,16 +13,16 @@ const MyShop = () => {
             .then(data => setProduct(data))
     }, [])
 
+    // declaring another useState for Product Component
     const [handleCart, setHandleCart] = useState([])
 
+    // creating new array using spreed operator
     const eventHandle = (productItem) => {
         const cartProduct = [...handleCart, productItem];
         setHandleCart(cartProduct);
     }
-
     return (
         <div className='shop-component'>
-
             <div className="product-container">
                 <h1>Total product: {product.length}</h1>
                 <div className="card-section">
@@ -34,10 +34,8 @@ const MyShop = () => {
                             key={getProduct.key}
                         ></Product>)
                     }
-
                 </div>
             </div>
-
             <div className="cart">
                 <Cart getCart={handleCart} ></Cart>
             </div>

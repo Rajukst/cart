@@ -5,11 +5,10 @@ import { faUser } from '@fortawesome/free-solid-svg-icons'
 
 const element = <FontAwesomeIcon icon={faUser} />
 const Cart = (props) => {
-    const { getNewCartItem } = props;
-
+    const { getCart } = props;
     // calculating total amount
     let initialAmount = 0;
-    for (const newAmount in getNewCartItem) {
+    for (let newAmount of getCart) {
         initialAmount = initialAmount + newAmount.price;
         console.log(initialAmount)
     }
@@ -17,7 +16,7 @@ const Cart = (props) => {
         <div className='cart-component'>
             <h1>{element} Your Cart Summary</h1>
             <h3> Total Product Added: {props.getCart.length} </h3>
-            <h4> Total Cost:</h4>
+            <h4> Total Cost: {initialAmount.toFixed(2)}</h4>
         </div>
     );
 };
