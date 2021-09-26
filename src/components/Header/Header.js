@@ -6,11 +6,12 @@ const Header = () => {
     return (
         <div className='h-component'>
             <div className="header-section">
-                <h1>Hello I am from header </h1>
-                <h2>Wellcome to your fevorute grosary shop</h2>
+                <h1>Nilima Electronic <span>hkahefkash</span> </h1>
+                <h2>Wellcome to Nilima Electronics shop</h2>
             </div>
-
-            <MyShop></MyShop>
+            <div className="myCart">
+                <MyShop></MyShop>
+            </div>
         </div>
     );
 };

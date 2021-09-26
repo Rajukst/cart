@@ -1,4 +1,8 @@
 
+.header-section{
+    background-color: cadetblue;
+}
 .h-component h1 , h2{
     text-align: center;
+    
 }

@@ -1,0 +1,36 @@
+.product-itm img{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 15%;
+    border: 3px solid goldenrod;
+    border-radius: 50%;
+}
+.product-corner{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+}
+.product-itm{
+    border: 1px solid white;
+    margin: 10px;
+}
+.product-itm:hover{
+    background-color: goldenrod;
+    border-radius: 15px;
+}
+.product-itm h3, p{
+margin-left: 20px;
+}
+
+.product-itm button{
+    padding: 8px 30px;
+    background-color:rgb(69, 218, 32);
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-left: 20%;
+}
+.product-itm button:hover{
+    background-color: gray;
+}
