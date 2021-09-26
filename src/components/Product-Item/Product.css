@@ -8,14 +8,14 @@
 }
 .product-corner{
 display: grid;
-grid-template-columns:repeat(3 1fr);
+grid-template-columns:repeat(3, 1fr);
 }
 .product-itm{
-    border: 1px solid white;
     margin: 10px;
+    border: 2px solid black;
 }
 .product-itm:hover{
-    background-color: goldenrod;
+    background-color: rgba(253, 0, 219, 0.466);
     border-radius: 15px;
 }
 .product-itm h3, p{
@@ -24,7 +24,7 @@ margin-left: 20px;
 
 .product-itm button{
     padding: 8px 30px;
-    background-color:rgb(69, 218, 32);
+    background-color:rgb(218, 240, 23);
     border: 1px solid lightgray;
     border-radius: 10px;
     cursor: pointer;
@@ -32,5 +32,5 @@ margin-left: 20px;
     margin-left: 20%;
 }
 .product-itm button:hover{
-    background-color: gray;
+    background-color: cyan;
 }

@@ -4,10 +4,9 @@
 }
 
 .product-container{
-    background-color: blue;
+    background-color: rgb(102, 102, 243);
 }
 
 .card-section{
-    border: 3px solid black;
     margin: 10px;
 }
